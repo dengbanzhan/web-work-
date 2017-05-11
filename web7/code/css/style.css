@@ -1,0 +1,38 @@
+body{
+	font-family:'Arial';
+	font-size:12px;
+	text-height:2em;
+	color:gray;
+
+}
+a{
+	color:gray;	
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.menu{
+	font-size:14px;
+	color:#b9f605;
+	font-weight: bold;
+}
+.menu a{
+	color:#FFFFFF;
+}
+.menu a:hover{
+	color:#b9f605;
+	text-decoration:none;
+}
+a.special{
+	color:#fdb306;
+}
+
+
+
+
+
+
+
+
+
