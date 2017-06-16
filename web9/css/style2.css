@@ -1,0 +1,247 @@
+#hander{
+	width:100%;
+	height:145px;
+	background-image:url(../images/bg.gif);
+	/*background-repeat:no-repeat;*/
+	padding-top:20px;
+	/*padding-left: 150px;*/
+}
+#banner{
+	width:318px;
+	height:99px;
+	margin-left:150px;
+}
+		#nav{
+			float:left;
+			margin-top:40px;
+			width:100%;
+			height:40px;
+			background-image:url(../images/nav.jpg);
+			padding-bottom:10px;
+			
+		}
+				.nav_content{
+					margin-left:150px;
+				}
+					.nav_content ul{
+						margin-bottom:20px;
+					}
+					.nav_content li{
+						width:70px;
+						height:40px;
+						float:left;
+						list-style:none;
+						color:#ffffff;
+					}
+						.nav_content a{
+							color:#ffffff;
+							text-decoration:none;
+							font-size:12px;
+						}
+						.special{
+							width:90px;
+							height:40px;
+						}
+						.nav_search{
+							margin-top:0px;
+							margin-left:900px;
+							width:50px;
+							height:30px;
+						}
+						.sousuo{
+							float:left;
+							margin-top:-30px;
+							margin-left:271px;
+							height:30px;
+						}
+#content{
+	margin-left:150px;
+	height:800px;
+	width:700px;
+}
+#content_top{
+	width:100%;
+	height:350px;
+}
+.news_pic{
+	margin-top:45px;
+	padding:20px;
+	width:286px;
+	height:203px;
+	background-image:url(../images/news_bg.png);
+	background-repeat:no-repeat;
+}
+	.news_pic p{
+		color:brown;
+		font-size:14px;
+		margin-left:60px;
+	}
+.news_list{
+	position:relative;
+	margin-top:-240px;
+	margin-left:325px;
+}
+	.news_list a{
+		font-size:12px;
+		color:brown;
+		text-decoration:none;
+	}
+	.news_list li{
+		height:30px;
+	}
+	.news_list ul{
+		list-style:disc url(../images/pot.gif);
+	}
+.news_announce_body{
+	width:278px;
+	position:relative;
+	margin-left:690px;
+	margin-top:-270px;
+}
+.news_announce{
+	width:278px;
+	height:206px;
+	background-image:url(../images/board_bg.png);
+}
+	.news_announce li{
+		height:30px;
+		margin-left:-20px;
+	}
+	.news_announce ul{
+		list-style:disc url(../images/pot.gif);
+	}
+	.news_announce a{
+		font-size:12px;
+		color:brown;
+		text-decoration:none;
+	}
+#content_bottom_left{
+
+}
+	.xszm{
+		font-size:12px;
+		position:relative;
+		margin-top:-100px;
+	}
+		.xszm a{
+			color:brown;
+			font-size:12px;
+			text-decoration:none;
+		}
+		.xszm ul{
+			list-style:disc url(../images/pot.gif);
+		}
+		.xszm li{
+			height:30px;
+			margin-left:-20px;
+		}
+	.sfxw{
+		font-size:12px;
+		position:relative;
+		margin-top:-230px;
+		margin-left:340px;
+	}
+		.sfxw a{
+			color:brown;
+			font-size:12px;
+			text-decoration:none;
+		}
+		.sfxw ul{
+			list-style:disc url(../images/pot.gif);
+		}
+		.sfxw li{
+			height:30px;
+			margin-left:-20px;
+		}
+	.yzfc{
+		float:left;
+		background:url(../images/fengcai.png);
+		padding:40px 26px 13px 0px;
+		margin:-10px;
+	}
+		.yzfc li{
+			float:left;
+			list-style:none;
+			margin-left:4px;
+		}
+#right{
+	position:relative;
+	height:600px;
+	width:280px;
+	margin-left:700px;
+	margin-top:-200px;
+}
+	.background{
+		background:url(../images/show_bg.png);
+		padding:30px 15px 2px 25px;
+	}
+		.background strong{
+			color:red;
+		}
+		.background p{
+			font-size:14px;
+			color:brown;
+		}
+.nva_search{
+	margin-right:100px;
+}
+#footer{
+	position:relative;
+	margin-top:-136px;
+	width:100%;
+	height:100px;
+	background-image:url(../images/foot.gif);
+	padding-top:10px;
+}
+	.list{
+		width:60%;
+		height:60px;
+		margin-top:10px;
+		margin-left:300px;
+
+
+	}
+		.list li{
+			list-style:none;
+			float:left;
+			width:90px;
+			height:40px;
+		}
+		.list a{
+			color:brown;
+			font-size:14px;
+			text-decoration:none;
+			font-weight:bold;
+		}
+		.list hr{
+			color:brown;
+			width:100%;
+			border-top:2px double brown;
+			margin-left:-100px;
+		}
+		.zhushi p{
+			margin-top:-15px;
+			margin-left:400px;
+			font-size:12px;
+			color:brown;
+		}
+		.gengduo1{
+			margin-top:-25px;
+			margin-left:320px;
+		}
+		.gengduo2{
+			margin-top:-40px;
+			margin-left:300px;
+		}
+		.gengduo3{
+			margin-top:-40px;
+			margin-left:300px;
+		}
+		.gengduo4{
+			margin-top:-40px;
+			margin-left:650px;
+		}
+		.gengduo5{
+			margin-top:-25px;
+			margin-left:300px;
+		}
