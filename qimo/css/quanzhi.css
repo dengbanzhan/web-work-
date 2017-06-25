@@ -4,6 +4,7 @@ body{
 			.wenzi h1{
 				margin-left:400px;
 				margin-top:-280;
+				color:#da70d6;
 			}
 				.wenzi:hover h1{
 					color:#4169e1;
@@ -11,7 +12,8 @@ body{
 			.wenzi p{
 				font-size:20px;
 				margin-left:400px;
-				line-height:180%
+				line-height:180%;
+				color:#da70d6;
 			}
 #head{
 	width:100%;
@@ -36,6 +38,16 @@ body{
 			background:url(../images/导航栏.png);
 			background-size:100% 60px;
 		}
+		.denglu{
+			position:absolute;
+			margin:10px 50px 0px 1200px;
+		}
+			.denglu a{
+				float:left;
+				font-size:20px;
+				color:#da70d6;
+				text-decoration:none;
+			}
 			.list{
 				width:80%;
 				height:60px;
@@ -50,14 +62,35 @@ body{
 					float:left;
 				}
 				.list a{
-					font-size:20px;
+					font-size:16px;
 					color:#da70d6;
 					text-decoration:none;
 				}
 				.list a:hover{
 					color:#696969;
 				}
-
+				#search{
+					float:left;
+					position:absolute;
+					border:0;
+					margin:-10px 0px 0px 900px;
+					width: 201px; 
+					height: 31px;
+					background: url(../images/sousuo.gif);
+				}
+				#search #s { 
+					float: left; 
+					padding: 0; 
+					margin: 6px 0 0 6px; 
+					border: 0; 
+					width: 159px; 
+					background: none; 
+					font-size: .8em; 
+					} 
+				#search #go { 
+					float: right; 
+					margin: 3px 4px 0 0; 
+					} 
 #contect{
 	width:100%;
 	height:1000px;
